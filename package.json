@@ -1,0 +1,21 @@
+{
+  "name": "ak-adventure-game",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module", "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
